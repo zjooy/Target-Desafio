@@ -1,0 +1,15 @@
+C:\Users\Joyce\Desktop\lp\bin\Debug\net7.0\lp.exe
+C:\Users\Joyce\Desktop\lp\bin\Debug\net7.0\lp.deps.json
+C:\Users\Joyce\Desktop\lp\bin\Debug\net7.0\lp.runtimeconfig.json
+C:\Users\Joyce\Desktop\lp\bin\Debug\net7.0\lp.dll
+C:\Users\Joyce\Desktop\lp\bin\Debug\net7.0\lp.pdb
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.csproj.AssemblyReference.cache
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.AssemblyInfoInputs.cache
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.AssemblyInfo.cs
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.dll
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\refint\lp.dll
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.pdb
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\lp.genruntimeconfig.cache
+C:\Users\Joyce\Desktop\lp\obj\Debug\net7.0\ref\lp.dll
